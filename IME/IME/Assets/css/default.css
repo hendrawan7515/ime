@@ -1,0 +1,150 @@
+﻿/*
+/* Created by Filipe Pina
+ * Specific styles of signin, register, component
+ */
+/*
+ * General styles
+ */
+
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-color: #d3d3d3;*/
+    font-family: 'Oxygen', sans-serif;
+    background: #48891c; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(-90deg, #24B3B7, #33CC99); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, #24B3B7, #33CC99); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, #24B3B7, #33CC99); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #24B3B7, #33CC99); /* Standard syntax */
+}
+
+.main {
+    margin-top: 70px;
+}
+
+.w50 {
+    width: 50%;
+}
+.w80 {
+    width: 80%;
+}
+.w90 {
+    width: 90%;
+}
+
+
+h1.title {
+    font-size: 50px;
+    font-family: 'Passion One', cursive;
+    font-weight: 400;
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    margin: 10px auto 10px;
+    border-radius: 100%;
+    border: 2px solid #aaa;
+    background: url('../../Assets/img/default-avatar.png') no-repeat;
+    background-size: cover;
+    background-color: #fff;
+}
+
+hr {
+    width: 10%;
+    color: #fff;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login {
+    background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.main-center {
+    margin-top: 30px;
+    margin: 0 auto;
+    max-width: 330px;
+    padding: 20px 40px;
+}
+
+.login-button {
+    margin-top: 5px;
+}
+
+.side-logo {
+    height: 384px;
+    padding: 20px 0;
+    background: url('../img/background-login.png') no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    margin: auto;
+    margin-top: 25px;
+    max-width: 75%;
+}
+
+.div-center {
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+
+.div-center h3 {
+    font-size: 30px;
+}
+
+.div-center h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.form-control.border-right {
+    border-top-right-radius:30px;
+    border-bottom-right-radius:30px;
+}
+
+.input-group-addon.border-left {
+    border-top-left-radius:30px;
+    border-bottom-left-radius:30px;
+    background-color: #FFFFFF;
+}
+
+#buttonLogin {
+    background-color: #309876;
+}
+
+@media(max-width:991px) {
+    .side-logo {
+        display: none;
+    }
+}
+
+@media(min-width:992px) {
+    .main-center {
+        max-width: unset;
+        margin: 0 -15px;
+    }
+}

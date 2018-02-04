@@ -1,0 +1,75 @@
+﻿html {
+    height: 100%;
+}
+
+body {
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+.trans-color { color: transparent; }
+.margin-10px { margin-top: 10px; }
+.aligned-left { text-align: left !important;}
+.aligned-right { text-align: right !important;}
+.aligned-center { text-align: center !important;}
+
+.w10 { width: 10%; }
+.w20 { width: 20%; }
+.w25 { width: 25%; }
+.w40 { width: 40%; }
+.w50 { width: 50%;}
+.w60 { width: 60%; }
+.w75 { width: 75%; }
+.w80 { width: 80%; }
+.w90 { width: 90%; }
+.w100 { width: 100%; }
+
+.no-pad { padding: 0px; }
+.vert-pad-10px { padding: 10px 0px;}
+.vert-pad-15px { padding: 15px 0px;}
+.vert-pad-20px { padding: 20px 0px;}
+.hor-pad-10px { padding: 0px 10px;}
+.hor-pad-15px { padding: 0px 15px;}
+.hor-pad-20px { padding: 0px 20px;}
+
+.mgn-btm-10px { margin-bottom: 10px; }
+
+.page-header {
+    margin: 20px 0;
+}
+
+.btn-group .btn .fa {
+    max-width: 9px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.bordered-panel {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.btn.btn-primary.pull-right {
+    margin: 5px;
+}
+
+.centered-panel {
+    margin: auto;
+}
+
+.max-300 {
+    max-width: 300px;
+    width: 100%;
+}
+
+.wi50  { min-width: 50px; }
+.wi100 { min-width: 100px; }
+.wi150 { min-width: 150px; }
+.wi200 { min-width: 200px; }
+.wi250 { min-width: 250px; }

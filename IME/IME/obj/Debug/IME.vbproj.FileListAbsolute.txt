@@ -1,0 +1,220 @@
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.ValueTuple.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\VBCSCompiler.exe
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\IME.dll.config
+D:\Project\Visual Studio 2015\IME\IME\bin\IME.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\IME.pdb
+D:\Project\Visual Studio 2015\IME\IME\bin\IME.xml
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csc.exe
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csc.exe.config
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csc.rsp
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csi.exe
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csi.exe.config
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\csi.rsp
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.AppContext.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Console.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Diagnostics.Process.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.IO.Compression.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.IO.Pipes.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Claims.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Threading.Thread.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Xml.XPath.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\vbc.exe
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\vbc.exe.config
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\vbc.rsp
+D:\Project\Visual Studio 2015\IME\IME\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Visual Studio 2015\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\MySql.Data.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\MySql.Web.dll
+D:\Project\Visual Studio 2015\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Visual Studio 2015\IME\IME\bin\MySql.Data.xml
+D:\Project\Visual Studio 2015\IME\IME\bin\MySql.Web.xml
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.Resources.resources
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.vbproj.GenerateResource.Cache
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.dll
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.xml
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.pdb
+D:\Project\Visual Studio 2015\IME\IME\obj\Debug\IME.vbprojResolveAssemblyReference.cache
+C:\Database\IME\IME\bin\IME.dll.config
+C:\Database\IME\IME\bin\IME.dll
+C:\Database\IME\IME\bin\IME.pdb
+C:\Database\IME\IME\bin\IME.xml
+C:\Database\IME\IME\bin\roslyn\csc.exe
+C:\Database\IME\IME\bin\roslyn\csc.exe.config
+C:\Database\IME\IME\bin\roslyn\csc.rsp
+C:\Database\IME\IME\bin\roslyn\csi.exe
+C:\Database\IME\IME\bin\roslyn\csi.exe.config
+C:\Database\IME\IME\bin\roslyn\csi.rsp
+C:\Database\IME\IME\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Database\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Database\IME\IME\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Database\IME\IME\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Database\IME\IME\bin\roslyn\System.AppContext.dll
+C:\Database\IME\IME\bin\roslyn\System.Collections.Immutable.dll
+C:\Database\IME\IME\bin\roslyn\System.Console.dll
+C:\Database\IME\IME\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Database\IME\IME\bin\roslyn\System.Diagnostics.Process.dll
+C:\Database\IME\IME\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Database\IME\IME\bin\roslyn\System.IO.Compression.dll
+C:\Database\IME\IME\bin\roslyn\System.IO.FileSystem.dll
+C:\Database\IME\IME\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Database\IME\IME\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Database\IME\IME\bin\roslyn\System.IO.Pipes.dll
+C:\Database\IME\IME\bin\roslyn\System.Reflection.Metadata.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.AccessControl.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Claims.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Database\IME\IME\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Database\IME\IME\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Database\IME\IME\bin\roslyn\System.Threading.Thread.dll
+C:\Database\IME\IME\bin\roslyn\System.ValueTuple.dll
+C:\Database\IME\IME\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Database\IME\IME\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Database\IME\IME\bin\roslyn\System.Xml.XPath.dll
+C:\Database\IME\IME\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Database\IME\IME\bin\roslyn\vbc.exe
+C:\Database\IME\IME\bin\roslyn\vbc.exe.config
+C:\Database\IME\IME\bin\roslyn\vbc.rsp
+C:\Database\IME\IME\bin\roslyn\VBCSCompiler.exe
+C:\Database\IME\IME\bin\roslyn\VBCSCompiler.exe.config
+C:\Database\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Database\IME\IME\bin\MySql.Data.dll
+C:\Database\IME\IME\bin\MySql.Web.dll
+C:\Database\IME\IME\bin\WebMatrix.WebData.dll
+C:\Database\IME\IME\bin\System.Web.WebPages.dll
+C:\Database\IME\IME\bin\WebMatrix.Data.dll
+C:\Database\IME\IME\bin\System.Web.WebPages.Razor.dll
+C:\Database\IME\IME\bin\System.Web.Helpers.dll
+C:\Database\IME\IME\bin\Microsoft.Web.Infrastructure.dll
+C:\Database\IME\IME\bin\System.Web.Razor.dll
+C:\Database\IME\IME\bin\System.Web.WebPages.Deployment.dll
+C:\Database\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Database\IME\IME\bin\MySql.Data.xml
+C:\Database\IME\IME\bin\MySql.Web.xml
+C:\Database\IME\IME\bin\WebMatrix.WebData.xml
+C:\Database\IME\IME\bin\System.Web.WebPages.xml
+C:\Database\IME\IME\bin\WebMatrix.Data.xml
+C:\Database\IME\IME\bin\System.Web.WebPages.Razor.xml
+C:\Database\IME\IME\bin\System.Web.Helpers.xml
+C:\Database\IME\IME\bin\Microsoft.Web.Infrastructure.xml
+C:\Database\IME\IME\bin\System.Web.Razor.xml
+C:\Database\IME\IME\bin\System.Web.WebPages.Deployment.xml
+C:\Database\IME\IME\obj\Debug\IME.Resources.resources
+C:\Database\IME\IME\obj\Debug\IME.vbproj.GenerateResource.Cache
+C:\Database\IME\IME\obj\Debug\IME.dll
+C:\Database\IME\IME\obj\Debug\IME.xml
+C:\Database\IME\IME\obj\Debug\IME.pdb
+C:\Database\IME\IME\obj\Debug\IME.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.Resources.resources
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\IME.dll.config
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\IME.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\IME.pdb
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\IME.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Threading.Thread.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\IME\IME\IME\IME\obj\Debug\IME.pdb

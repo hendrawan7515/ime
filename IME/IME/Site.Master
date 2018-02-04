@@ -1,0 +1,147 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="IME.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - IME+</title>
+    <%--<base href="http://localhost:61485" />--%>
+    <link rel="apple-touch-icon" sizes="180x180" href="~/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="~/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="~/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="~/favicons/manifest.json" />
+    <link rel="mask-icon" href="~/favicons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/sidebar-menu.css" rel="stylesheet" />
+    <link href="~/Assets/css/site.css" rel="stylesheet" />
+    <link href="~/Assets/css/responsive.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="StylePlaceHolder" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body data-ng-app="myApp">
+    <form id="form" runat="server">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3 col-lg-2">
+                    <nav class="navbar navbar-default custom">
+                        <div class="container">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" style="cursor: pointer;">IME</a>
+                            </div>
+                            <%--<div><a class="navbar-brand" href="#">Brand</a></div>--%>
+                            <ul class="sidebar-menu" data-ng-controller="myMenu" data-ng-init="PopulateMenu()">
+
+                                <%--<li class="header">MAIN NAVIGATION </li>--%>
+
+                                <%--<li><a href="../dashboard.aspx"><i class="fa fa-dashboard"></i><span>Dashboard</span></a></li>--%>
+                                <li data-ng-repeat="data in menu">
+                                    <a href="{{ data.url }}">
+                                        <i class="fa fa-{{ data.style }}"></i><span>{{ data.name }}</span>
+                                        <i data-ng-class="{'fa fa-angle-left pull-right': data.child != 'undefined' && data.child != null && data.child.length > 0 }"></i>
+                                        
+                                        
+                                        <ul data-ng-if="data.child != 'undefined' && data.child != null && data.child.length > 0" class="treeview-menu">
+                                            <li data-ng-repeat="item in data.child">
+                                                <a href="{{ item.url }}">{{ item.name }}
+                                                    <i data-ng-class="{'fa fa-angle-left pull-right': item.gchild != 'undefined' && item.gchild != null && item.gchild.length > 0 }"></i>
+                                                </a>
+
+                                                <ul data-ng-if="item.gchild != 'undefined' && item.gchild != null && item.gchild.length > 0" class="treeview-menu">
+                                                    <li data-ng-repeat="childs in item.gchild">
+                                                        <a href="{{ childs.url }}">{{ childs.name }}
+                                                            <i data-ng-class="{'fa fa-angle-left pull-right': childs.ggchild != 'undefined' && childs.ggchild != null && childs.ggchild.length > 0 }"></i>
+                                                        </a>
+
+                                                        <ul data-ng-if="childs.ggchild != 'undefined' && childs.ggchild != null && childs.ggchild.length > 0" class="treeview-menu">
+                                                            <li data-ng-repeat="gchilds in childs.ggchild"><a href="{{ gchilds.url }}">{{ gchilds.name }}</a></li>
+                                                        </ul>
+                                                </ul>
+
+                                            </li>
+                                        </ul>
+
+                                    </a>
+                                </li>
+
+<%--                                
+                                <li class="treeview">
+                                    <a href="#">
+                                        <i class="fa fa-child "></i><span>Human Resource</span>
+                                        <i class="fa fa-angle-left pull-right"></i>
+                                    </a>
+                                    <ul class="treeview-menu">
+                                        <li>
+                                            <a href="#"><i class="fa fa-circle-o"></i>OM<i class="fa fa-angle-left pull-right"></i></a>
+                                            <ul class="treeview-menu">
+                                                <li><a href="#"><i class="fa fa-circle-o"></i>Organization</a></li>
+                                                <li><a href="#"><i class="fa fa-circle-o"></i>Nomenklatur</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#"><i class="fa fa-circle-o"></i>Level One</a></li>
+                                    </ul>
+                                </li>--%>
+                                
+                                <li><a href="../../logout.aspx"><i class="fa fa-power-off"></i><span>Logout</span></a></li>
+                                <%--<li><a href="#" data-ng-click="ButtonClick()"><i class="fa fa-code"></i><span>{{ checks }}</span></a></li>--%>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-sm-9 col-lg-10">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                
+            </div>
+        </div>
+    </form>
+    <script src="../../../Scripts/jquery-3.2.1.js"></script>
+    <%--<script src="Scripts/bootstrap.min.js"></script>--%>
+    <script src="../../../Scripts/angular.min.js"></script>
+    <script src="../../../Assets/js/sidebar-menu.js"></script>
+    <script type="text/javascript">
+        $.sidebarMenu($('.sidebar-menu'));
+
+        $('.navbar-toggle.collapsed').click(function () {
+            if ($('.sidebar-menu').css('display') == 'none')
+                $(".sidebar-menu").slideDown("slow");
+            else
+                $(".sidebar-menu").slideUp("slow");
+        });
+
+        var myApp = angular.module("myApp", []);
+
+        var myMenu = function ($scope, $http, $window) {
+            $scope.menu = [];
+            $scope.username = "IME-HAYKAL";
+
+            $scope.PopulateMenu = function () {
+                var post = $http({
+                    method: "POST",
+                    url: "../../../WebMethod.aspx/GetMenuList",
+                    dataType: 'json',
+                    data: { username: $scope.username },
+                    headers: { "Content-Type": "application/json" }
+                }).then(function successCallBack(response) {
+                    $scope.menu = response.data.d;
+                }, function errorCallBack(response) {
+                    console.log(response.data);
+                });
+            }
+        };
+        
+    </script>
+    <asp:ContentPlaceHolder ID="ScriptPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>
